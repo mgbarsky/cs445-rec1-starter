@@ -1,2 +1,2 @@
-# cs445-rec1-starter
-Starter code for Recitation 1
+# Recitation 1. Using Eclispe
+Starter code 
